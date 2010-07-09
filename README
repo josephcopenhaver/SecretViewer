@@ -1,0 +1,4 @@
+This program impliments a cryptographic hash function to encrypt text files.
+It can also detect content change by using a HMAC stored in the first 20 bytes of the file.
+
+The main class is SecretViewer.
